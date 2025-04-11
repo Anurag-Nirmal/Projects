@@ -1,1 +1,1 @@
-Differnt projects using Html , CSS and Java Script
+Different projects using Html , CSS and Java Script
